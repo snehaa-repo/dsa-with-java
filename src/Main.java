@@ -1,5 +1,8 @@
+//java hello worl printing :
 public class Main {
     public static void main(String[] args) {
-        System.out.println("DSA practice with Java");
+        System.out.println("Hello World java");
+        System.out.print("Hello World java");
+        System.out.println("Hello World java");
     }
 }
